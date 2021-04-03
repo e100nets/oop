@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <atributes>
+        <truba>
+            <item name="15 мм" diametr="15" dlina="2500" ugol="0" color="00ffaa"/>
+            <item name="20 мм" diametr="20" dlina="2500" ugol="0" color="00ffbb"/>
+            <item name="60 мм" diametr="60" dlina="2500" ugol="0" color="aaff00"/>
+            <item name="90 мм" diametr="90" dlina="2500" ugol="0" color="bbff00"/>
+            <item name="40 мм" diametr="40" dlina="2500" ugol="0" color="00aabb"/>
+        </truba>
+        <vanna>
+            <item name="ванна 1500*500" pod="20" sliv="40" dlina="1500" shirina="500" round="30" color="00ff00"></item>
+            <item name="ванна1700*500" pod="20" sliv="40" dlina="1700" shirina="500" round="30" color="00ff00"></item>
+        </vanna>
+        <unitaz>
+            <item name="туалет 350*630" pod="15" sliv="90" dlina="630" shirina="350" round="40" color="ffff00"></item>
+            <item name="туалет 355*670" pod="15" sliv="90" dlina="670" shirina="355" round="40" color="ffff00"></item>
+            <item name="туалет 360*680" pod="15" sliv="90" dlina="680" shirina="360" round="40" color="ffff00"></item>
+        </unitaz>
+        <umivalnic>
+            <item name="умывальник 400*300" pod="15" sliv="40" dlina="400" shirina="300" round="20" color="ff00ff"></item>
+            <item name="умывальник 550*420" pod="15" sliv="40" dlina="550" shirina="420" round="20" color="ff00ff"></item>
+            <item name="умывальник 600*450" pod="15" sliv="40" dlina="600" shirina="450" round="20" color="ff00ff"></item>
+        </umivalnic>
+        <mashinki>
+            <item name="ст машинка 600*600" pod="20" sliv="20" dlina="600" shirina="600" round="5" color="0000ff"></item>
+            <item name="ст машинка 600*475" pod="20" sliv="20" dlina="600" shirina="475" round="5" color="0000ff"></item>
+            <item name="ст машинка 600*690" pod="20" sliv="20" dlina="690" shirina="600" round="5" color="0000ff"></item>
+        </mashinki>
+
+    </atributes>
